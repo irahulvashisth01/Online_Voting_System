@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+instance/
+*.sqlite3
+*.db
+dataset/
+trainer/
+models/
+*.whl
